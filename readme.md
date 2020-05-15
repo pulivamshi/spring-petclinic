@@ -141,4 +141,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
-modified on 13may2020modified on 3may[D[D[D[D1[C[C[C[C[D2020this is other changethis is the line added on 13may2020
+modified on 13may2020modified on 3may[D[D[D[D1[C[C[C[C[D2020this is other changethis is the line added on 13may2020this is other change
